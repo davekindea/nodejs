@@ -1,0 +1,6 @@
+const path=require("path")
+console.log(path.sep)
+const filepath=path.join("/dedcec","/sdcewd","/jhjsxscv")
+console.log(filepath)
+const base=path.basename(filepath)
+console.log(base)
